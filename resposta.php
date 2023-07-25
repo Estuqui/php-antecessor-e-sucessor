@@ -22,8 +22,6 @@
             echo "O número escolhido foi $num";
             echo "<br>O seu antecessor é $ant";
             echo "<br>O seu sucessor é $suc";
-            
-    
         ?>
 
     <button onclick="window.location='/index.html'"> Voltar ao início </button>
